@@ -1,6 +1,5 @@
 ## Bobby Quinones
 
- [editor on GitHub](https://github.com/quinonrm/PersonalWebsite/edit/gh-pages/index.md) 
  
 The following website will have a list of all the repositories that I create this semester. 
 
@@ -20,5 +19,5 @@ The following website will have a list of all the repositories that I create thi
 
 
 ### Personal Image
-<img src="https://github.com/quinonrm/PersonalWebsite/commit/7a0337a46d4795c25b3717ce9d0c1e5c04755e07#commitcomment-46555582" >
+[images] <img src="https://github.com/quinonrm/PersonalWebsite/commit/7a0337a46d4795c25b3717ce9d0c1e5c04755e07#commitcomment-46555582" >
 ![](https://github.com/quinonrm/PersonalWebsite/commit/7a0337a46d4795c25b3717ce9d0c1e5c04755e07#commitcomment-46555582)

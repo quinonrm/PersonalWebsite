@@ -1,6 +1,7 @@
 ## Bobby Quinones
 
  [editor on GitHub](https://github.com/quinonrm/PersonalWebsite/edit/gh-pages/index.md) 
+ 
 The following website will have a list of all the repositories that I create this semester. 
 
 
@@ -25,7 +26,7 @@ The following website will have a list of all the repositories that I create thi
 
 
 ### Link to Personal Resume
-file:///C:/Users/Bobby%20Quinones/Documents/Resume/RESUME_ROBERT_QUINONES_2021.pdf
+(file:///C:/Users/Bobby%20Quinones/Documents/Resume/RESUME_ROBERT_QUINONES_2021.pdf)
 
 
 ### Topic 3

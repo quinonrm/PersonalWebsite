@@ -1,8 +1,8 @@
 ## Bobby Quinones
 
-You can use the [editor on GitHub](https://github.com/quinonrm/PersonalWebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ [editor on GitHub](https://github.com/quinonrm/PersonalWebsite/edit/gh-pages/index.md) 
+The following website will have a list of all the repositories that I create this semester. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 

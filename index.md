@@ -9,19 +9,14 @@ The following website will have a list of all the repositories that I create thi
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+**Bold**
+List of repositories
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+1. Personal Website
+2. Hello World
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
 <img src="https://github.com/quinonrm/PersonalWebsite/commit/7a0337a46d4795c25b3717ce9d0c1e5c04755e07#commitcomment-46555582" >
 ![](https://github.com/quinonrm/PersonalWebsite/commit/7a0337a46d4795c25b3717ce9d0c1e5c04755e07#commitcomment-46555582)

@@ -11,7 +11,7 @@ The following website will have a list of all the repositories that I create thi
 
 ```markdown
 
-**Bold** List of repositories
+**List of repositories** 
 
 
 1. Personal Website

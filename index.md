@@ -24,7 +24,8 @@ The following website will have a list of all the repositories that I create thi
 
 
 
-### Topic 2
+### Link to Personal Resume
+file:///C:/Users/Bobby%20Quinones/Documents/Resume/RESUME_ROBERT_QUINONES_2021.pdf
 
 
 ### Topic 3

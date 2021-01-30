@@ -23,8 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-<img src="Images/file:///C:/Users/Bobby%20Quinones/Documents/Career/Professional%20Photo%201.PNG" >
-![](Images/file:///C:/Users/Bobby%20Quinones/Documents/Career/Professional%20Photo%201.PNG)
+<img src="https://github.com/quinonrm/PersonalWebsite/commit/7a0337a46d4795c25b3717ce9d0c1e5c04755e07#commitcomment-46555582" >
+![](https://github.com/quinonrm/PersonalWebsite/commit/7a0337a46d4795c25b3717ce9d0c1e5c04755e07#commitcomment-46555582)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
